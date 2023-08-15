@@ -4,7 +4,11 @@
     <title>Sections on Paul Clist</title>
     <link>/sections/</link>
     <description>Recent content in Sections on Paul Clist</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="/sections/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    
+	<atom:link href="/sections/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title></title>
       <link>/sections/aboutme/</link>
@@ -31,8 +35,8 @@ I now mainly use experimental and behavioural economics to study decision making
       
       <guid>/sections/policy/</guid>
       <description>My work on Payment by Results in International Development has helped shaped policy and practice, especially in the UK. This happened somewhat by accident, with relevant academic papers leading to consultancy work, which now lead to more academic papers. For a quick introduction to my thinking for a general audience, see:
-My first and second posts on Duncan Green&amp;rsquo;s From Poverty to Power blog
-A summary describing 12 principles, co-authored with Stefan Dercon, 2014</description>
+  My first and second posts on Duncan Green&amp;rsquo;s From Poverty to Power blog
+  A summary describing 12 principles, co-authored with Stefan Dercon, 2014</description>
     </item>
     
   </channel>
